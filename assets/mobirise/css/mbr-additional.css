@@ -2,13 +2,16 @@
   font-size: 16px;
 }
 #ext_menu-0.mbr-navbar--stuck .mbr-navbar__section {
-  background: #ffffff;
+  background: #7c706b;
 }
 #ext_menu-0 .mbr-navbar__section {
-  background: #ffffff;
+  background: #7c706b;
 }
 #ext_menu-0 .mbr-navbar__hamburger {
   color: #ffffff;
+}
+#ext_menu-0 .mbr-navbar__items a {
+  font-size: 20px;
 }
 #header4-1 H1 {
   text-align: center;
@@ -43,23 +46,29 @@
   font-size: 16px;
 }
 #ext_menu-p.mbr-navbar--stuck .mbr-navbar__section {
-  background: #2c2c2c;
+  background: #7c706b;
 }
 #ext_menu-p .mbr-navbar__section {
-  background: #2c2c2c;
+  background: #7c706b;
 }
 #ext_menu-p .mbr-navbar__hamburger {
   color: #ffffff;
+}
+#ext_menu-p .mbr-navbar__items a {
+  font-size: 20px;
 }
 #ext_menu-z .mbr-brand__name {
   font-size: 16px;
 }
 #ext_menu-z.mbr-navbar--stuck .mbr-navbar__section {
-  background: #2c2c2c;
+  background: #7c706b;
 }
 #ext_menu-z .mbr-navbar__section {
-  background: #2c2c2c;
+  background: #7c706b;
 }
 #ext_menu-z .mbr-navbar__hamburger {
   color: #ffffff;
+}
+#ext_menu-z .mbr-navbar__items a {
+  font-size: 20px;
 }
