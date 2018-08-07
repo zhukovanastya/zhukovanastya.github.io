@@ -1,7 +1,7 @@
 {
   "settings": {
     "name": "1",
-    "currentPage": "form.html",
+    "currentPage": "index.html",
     "theme": {
       "name": "default",
       "title": "Mobirise",
@@ -14,7 +14,7 @@
     },
     "path": "@PROJECT_PATH@",
     "versionFirst": "4.6.6",
-    "uniqCompNum": 30,
+    "uniqCompNum": 31,
     "versionPublish": "4.8.1",
     "screenshot": "screenshot.png",
     "siteFonts": []
@@ -113,18 +113,21 @@
           "_anchor": "header4-1"
         },
         {
-          "_inherit": "header1",
+          "_inherit": "msg-box5",
           "_params": {
             "showTitle": true,
+            "showMeta": false,
             "showText": true,
             "showButtons": true,
-            "showArrow": false,
-            "contentAlign": "center",
+            "inverse": false,
+            "imageSize": 50,
+            "paddingTop": 3,
+            "paddingBottom": 3,
             "bgImageRadio": false,
-            "bgImage": "images/bg.jpg",
+            "bgImage": "images/bg3.jpg",
             "parallax": true,
             "bgColorRadio": true,
-            "bgColor": "#f7da64",
+            "bgColor": "#f97352",
             "bgVideoRadio": false,
             "bgVideo": {
               "url": "http://www.youtube.com/watch?v=uNCr7NdOJgw"
@@ -133,15 +136,46 @@
             "overlayColor": "#222",
             "overlayOpacity": 0.5
           },
-          "title": "MOBIRISE WEBSITE BUILDER",
-          "text": "&nbsp;",
-          "buttons": "<a data-app-btn=\"true\" class=\"mbr-buttons__btn btn btn-lg btn-danger animated fadeInUp delay\" href=\"https://zhukovanastya.github.io/form.html\" data-toolbar=\"-mbrBtnMove\">ПОЛУЧИТЬ БЕСПЛАТНЫЙ ЧЕК-ЛИСТ</a> ",
+          "media": {
+            "image": {
+              "active": true,
+              "class": "mbr-figure__img",
+              "width": 1400,
+              "src": "images/iphone.png"
+            },
+            "video": {
+              "src": "http://www.youtube.com/embed/sOSTC6FM6Bw",
+              "aspectratio": "16:9",
+              "autoplay": false,
+              "loop": false
+            },
+            "iconFont": {
+              "class": "mbr-iconfont mbr-iconfont-msg-box4",
+              "link": "",
+              "size": 0
+            }
+          },
+          "title": "DRAG AND DROP WEBSITE BUILDER",
+          "text": "<p>Make your own website in a few clicks! Mobirise helps you cut down development time by providing you with a flexible website editor with a drag and drop interface.</p>",
           "_tags": [
             "Тема"
           ],
-          "_afterNavbarItem": ".mbr-section > .mbr-box__magnet",
-          "_name": "header4",
-          "_anchor": "header4-o"
+          "_styles": {
+            ".mbr-header__text": {
+              "color": "#ffffff"
+            },
+            ".mbr-header__subtext": {
+              "color": "#ffffff"
+            },
+            ".mbr-article": {
+              "color": "#ffffff"
+            }
+          },
+          "headerAlign": "left",
+          "meta": "By John Smith posted July 30, 2015",
+          "button": "<a data-app-btn=\"true\" class=\"mbr-buttons__btn btn btn-lg btn-default\" href=\"https://zhukovanastya.github.io/form.html\" data-toolbar=\"-mbrBtnMove\">ПОЛУЧИТЬ БЕСПЛАТНЫЙ ЧЕК-ЛИСТ</a>",
+          "_name": "msg-box4",
+          "_anchor": "msg-box4-u"
         },
         {
           "_params": {
@@ -373,8 +407,8 @@
     },
     "form.html": {
       "settings": {
-        "meta_descr": "Website Creator Description",
-        "title": "form",
+        "meta_descr": "",
+        "title": "Получить чек-лист",
         "order": 1
       },
       "components": [
@@ -448,71 +482,6 @@
           ],
           "_name": "footer1",
           "_anchor": "footer1-q"
-        },
-        {
-          "_inherit": "msg-box5",
-          "_params": {
-            "showTitle": true,
-            "showMeta": false,
-            "showText": true,
-            "showButtons": true,
-            "inverse": false,
-            "imageSize": 50,
-            "paddingTop": 3,
-            "paddingBottom": 3,
-            "bgImageRadio": false,
-            "bgImage": "images/bg3.jpg",
-            "parallax": true,
-            "bgColorRadio": true,
-            "bgColor": "#f97352",
-            "bgVideoRadio": false,
-            "bgVideo": {
-              "url": "http://www.youtube.com/watch?v=uNCr7NdOJgw"
-            },
-            "overlay": false,
-            "overlayColor": "#222",
-            "overlayOpacity": 0.5
-          },
-          "media": {
-            "image": {
-              "active": true,
-              "class": "mbr-figure__img",
-              "width": 1400,
-              "src": "images/iphone.png"
-            },
-            "video": {
-              "src": "http://www.youtube.com/embed/sOSTC6FM6Bw",
-              "aspectratio": "16:9",
-              "autoplay": false,
-              "loop": false
-            },
-            "iconFont": {
-              "class": "mbr-iconfont mbr-iconfont-msg-box4",
-              "link": "",
-              "size": 0
-            }
-          },
-          "title": "DRAG AND DROP WEBSITE BUILDER",
-          "text": "<p>Make your own website in a few clicks! Mobirise helps you cut down development time by providing you with a flexible website editor with a drag and drop interface.</p>",
-          "_tags": [
-            "Тема"
-          ],
-          "_styles": {
-            ".mbr-header__text": {
-              "color": "#ffffff"
-            },
-            ".mbr-header__subtext": {
-              "color": "#ffffff"
-            },
-            ".mbr-article": {
-              "color": "#ffffff"
-            }
-          },
-          "headerAlign": "left",
-          "meta": "By John Smith posted July 30, 2015",
-          "button": "<a data-app-btn=\"true\" class=\"mbr-buttons__btn btn btn-lg btn-default\" href=\"https://mobirise.com\">LEARN MORE</a>",
-          "_name": "msg-box4",
-          "_anchor": "msg-box4-t"
         },
         {
           "_params": {
