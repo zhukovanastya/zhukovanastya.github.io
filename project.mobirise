@@ -40,7 +40,7 @@
             "collapsed": false,
             "transparent": false,
             "color": "#7c706b",
-            "hamburgerColor": "#ffffff"
+            "hamburgerColor": "#0c0c0c"
           },
           "buttons": "<li class=\"mbr-navbar__item\"><a data-app-btn=\"parent\" class=\"mbr-buttons__btn btn btn-danger\" data-app-selector=\".mbr-navbar__items a\" href=\"https://mobirise.com\" data-toolbar=\"-mbrBtnMove\">&nbsp;</a></li>",
           "_tags": [
@@ -57,7 +57,7 @@
               "background": "#7c706b"
             },
             ".mbr-navbar__hamburger": {
-              "color": "#ffffff"
+              "color": "#0c0c0c"
             },
             ".mbr-navbar__items a": {
               "font-size": "20px"
@@ -122,7 +122,8 @@
           "_styles": {
             "H1": {
               "text-align": "center",
-              "color": "#444444"
+              "color": "#000000",
+              "font-size": "32px"
             }
           }
         },
@@ -420,7 +421,7 @@
           "_afterNavbarItem": ".mbr-section > .mbr-box__magnet",
           "_params": {
             "autoplay": true,
-            "fullScreen": true,
+            "fullScreen": false,
             "paddingTop": 3,
             "paddingBottom": 3,
             "showBullets": true,
@@ -508,7 +509,7 @@
             "collapsed": false,
             "transparent": false,
             "color": "#7c706b",
-            "hamburgerColor": "#ffffff"
+            "hamburgerColor": "#0c0c0c"
           },
           "buttons": "<li class=\"mbr-navbar__item\"><a data-app-btn=\"parent\" class=\"mbr-buttons__btn btn btn-danger\" data-app-selector=\".mbr-navbar__items a\" href=\"https://mobirise.com\" data-toolbar=\"-mbrBtnMove\">&nbsp;</a></li>",
           "_tags": [
@@ -525,7 +526,7 @@
               "background": "#7c706b"
             },
             ".mbr-navbar__hamburger": {
-              "color": "#ffffff"
+              "color": "#0c0c0c"
             },
             ".mbr-navbar__items a": {
               "font-size": "20px"
@@ -645,7 +646,7 @@
             "collapsed": false,
             "transparent": false,
             "color": "#7c706b",
-            "hamburgerColor": "#ffffff"
+            "hamburgerColor": "#0c0c0c"
           },
           "buttons": "<li class=\"mbr-navbar__item\"><a data-app-btn=\"parent\" class=\"mbr-buttons__btn btn btn-danger\" data-app-selector=\".mbr-navbar__items a\" href=\"https://mobirise.com\" data-toolbar=\"-mbrBtnMove\">&nbsp;</a></li>",
           "_tags": [
@@ -662,7 +663,7 @@
               "background": "#7c706b"
             },
             ".mbr-navbar__hamburger": {
-              "color": "#ffffff"
+              "color": "#0c0c0c"
             },
             ".mbr-navbar__items a": {
               "font-size": "20px"

@@ -8,14 +8,15 @@
   background: #7c706b;
 }
 #ext_menu-0 .mbr-navbar__hamburger {
-  color: #ffffff;
+  color: #0c0c0c;
 }
 #ext_menu-0 .mbr-navbar__items a {
   font-size: 20px;
 }
 #header4-1 H1 {
   text-align: center;
-  color: #444444;
+  color: #000000;
+  font-size: 32px;
 }
 #msg-box4-u .mbr-header__text {
   color: #444444;
@@ -52,7 +53,7 @@
   background: #7c706b;
 }
 #ext_menu-p .mbr-navbar__hamburger {
-  color: #ffffff;
+  color: #0c0c0c;
 }
 #ext_menu-p .mbr-navbar__items a {
   font-size: 20px;
@@ -67,7 +68,7 @@
   background: #7c706b;
 }
 #ext_menu-z .mbr-navbar__hamburger {
-  color: #ffffff;
+  color: #0c0c0c;
 }
 #ext_menu-z .mbr-navbar__items a {
   font-size: 20px;
