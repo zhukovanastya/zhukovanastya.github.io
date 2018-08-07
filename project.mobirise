@@ -1,7 +1,7 @@
 {
   "settings": {
     "name": "1",
-    "currentPage": "index.html",
+    "currentPage": "form.html",
     "theme": {
       "name": "default",
       "title": "Mobirise",
@@ -60,7 +60,7 @@
               "color": "#ffffff"
             }
           },
-          "items": "<li class=\"mbr-navbar__item\"><a data-app-btn=\"true\" class=\"mbr-buttons__link btn mbr-menu-item text-white\" data-app-selector=\".mbr-navbar__items a\" href=\"https://mobirise.com\">ГЛАВНАЯ</a></li>  ",
+          "items": "<li class=\"mbr-navbar__item\"><a data-app-btn=\"true\" class=\"mbr-buttons__link btn mbr-menu-item text-white\" data-app-selector=\".mbr-navbar__items a\" href=\"https://zhukovanastya.github.io/\">ГЛАВНАЯ</a></li>  ",
           "logo": {
             "image": {
               "active": true,
@@ -408,7 +408,7 @@
     "form.html": {
       "settings": {
         "meta_descr": "",
-        "title": "Получить чек-лист",
+        "title": "Получить бесплатный чек-лист",
         "order": 1
       },
       "components": [
@@ -442,7 +442,7 @@
               "color": "#ffffff"
             }
           },
-          "items": "<li class=\"mbr-navbar__item\"><a data-app-btn=\"true\" class=\"mbr-buttons__link btn mbr-menu-item text-white\" data-app-selector=\".mbr-navbar__items a\" href=\"https://mobirise.com\">ГЛАВНАЯ</a></li>  ",
+          "items": "<li class=\"mbr-navbar__item\"><a data-app-btn=\"true\" class=\"mbr-buttons__link btn mbr-menu-item text-white\" data-app-selector=\".mbr-navbar__items a\" href=\"https://zhukovanastya.github.io/\">ГЛАВНАЯ</a></li>  ",
           "logo": {
             "image": {
               "active": true,
@@ -497,7 +497,7 @@
             "overlayColor": "#222",
             "overlayOpacity": 0.5
           },
-          "title": "Заказать чек-лист!",
+          "title": "Заказать бесплатный чек-лист!",
           "buttons": "<a data-app-btn=\"true\" type=\"submit\" class=\"mbr-buttons__btn btn btn-lg btn-danger\" data-toolbar=\"-mbrLink,-mbrBtnAdd,-mbrBtnMove\">Получить</a>",
           "form": {
             "action": "zukovvanastya@mail.ru",
