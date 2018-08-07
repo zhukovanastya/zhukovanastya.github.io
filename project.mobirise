@@ -163,7 +163,6 @@
           },
           "media": {
             "image": {
-              "active": true,
               "class": "mbr-figure__img",
               "width": 1400,
               "src": "images/iphone.png"
@@ -176,12 +175,17 @@
             },
             "iconFont": {
               "class": "mbr-iconfont mbr-iconfont-msg-box4",
+              "linkInNewWindow": false,
+              "name": "edit",
+              "family": "MobiriseIcons",
               "link": "",
-              "size": 0
+              "size": 0,
+              "color": "#7c706b",
+              "active": true
             }
           },
-          "title": "DRAG AND DROP WEBSITE BUILDER",
-          "text": "<p>Make your own website in a few clicks! Mobirise helps you cut down development time by providing you with a flexible website editor with a drag and drop interface.</p>",
+          "title": "ТОП-5 КНИГ, КОТОРЫЕ Я СОВЕТУЮ",
+          "text": "Ты узнаешь, как работает&nbsp;",
           "_tags": [
             "Тема"
           ],
@@ -193,7 +197,7 @@
               "color": "#ffffff"
             },
             ".mbr-article": {
-              "color": "#ffffff"
+              "color": "#444444"
             },
             ".mbr-article P": {
               "color": "#444444"
@@ -231,7 +235,6 @@
           },
           "media": {
             "image": {
-              "active": true,
               "class": "mbr-figure__img",
               "width": 1400,
               "src": "images/iphone.png"
@@ -244,12 +247,17 @@
             },
             "iconFont": {
               "class": "mbr-iconfont mbr-iconfont-msg-box4",
+              "linkInNewWindow": false,
+              "name": "growing-chart",
+              "family": "mobirise-icons-bold",
               "link": "",
-              "size": 0
+              "size": 0,
+              "color": "#7c706b",
+              "active": true
             }
           },
           "title": "DRAG AND DROP WEBSITE BUILDER",
-          "text": "<p><br></p><p><b>169 руб.</b></p>",
+          "text": "<p><b>169 руб.</b><br></p>",
           "_tags": [
             "Тема"
           ],
@@ -264,13 +272,16 @@
               "color": "#ffffff"
             },
             ".mbr-article P": {
-              "font-size": "32px",
-              "color": "#0c0c0c"
+              "font-size": "17px",
+              "color": "#ffffff"
+            },
+            ".mbr-header__subtext SPAN": {
+              "font-size": "17px"
             }
           },
           "headerAlign": "left",
-          "meta": "By John Smith posted July 30, 2015",
-          "button": "<a data-app-btn=\"true\" class=\"mbr-buttons__btn btn btn-lg btn-danger\" href=\"https://zhukovanastya.github.io/form1.html\" data-toolbar=\"-mbrBtnMove\">ПРИОБРЕСТИ</a>",
+          "meta": "<span style=\"font-style: normal;\">лоолрлорлорло</span>",
+          "button": "<a data-app-btn=\"true\" class=\"mbr-buttons__btn btn btn-lg btn-danger\" href=\"https://zhukovanastya.github.io/form1.html\" data-toolbar=\"-mbrBtnMove\">ПРИОБРЕСТИ ЗА 169 руб.</a>",
           "_name": "msg-box4",
           "_anchor": "msg-box4-y"
         },
@@ -444,7 +455,7 @@
             "bgColor": "#ffffff",
             "slides": [
               {
-                "image": "images/slide1.jpg",
+                "image": "@PROJECT_PATH@/assets/images/1-2000x1102.png",
                 "active": true,
                 "showButtons": false,
                 "showText": false,
