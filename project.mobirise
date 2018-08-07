@@ -76,8 +76,8 @@
             "iconFont": {
               "class": "mbr-iconfont mbr-iconfont-menu",
               "linkInNewWindow": false,
-              "name": "quote-left",
-              "family": "mobirise-icons-bold",
+              "name": "play",
+              "family": "MobiriseIcons",
               "link": "https://zhukovanastya.github.io/",
               "size": "",
               "color": "#0c0c0c",
@@ -546,8 +546,8 @@
               "link": "https://zhukovanastya.github.io/",
               "size": "",
               "linkInNewWindow": false,
-              "name": "quote-left",
-              "family": "mobirise-icons-bold",
+              "name": "play",
+              "family": "MobiriseIcons",
               "color": "#0c0c0c",
               "newWindow": false,
               "active": true
@@ -683,8 +683,8 @@
               "link": "https://zhukovanastya.github.io/",
               "size": "",
               "linkInNewWindow": false,
-              "name": "quote-left",
-              "family": "mobirise-icons-bold",
+              "name": "play",
+              "family": "MobiriseIcons",
               "color": "#0c0c0c",
               "newWindow": false,
               "active": true
