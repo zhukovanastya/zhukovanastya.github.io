@@ -201,7 +201,7 @@
           },
           "headerAlign": "left",
           "meta": "By John Smith posted July 30, 2015",
-          "button": "<a data-app-btn=\"true\" class=\"mbr-buttons__btn btn btn-lg btn-info\" href=\"https://zhukovanastya.github.io/form.html\" data-toolbar=\"-mbrBtnMove\">ПОЛУЧИТЬ БЕСПЛАТНЫЙ ЧЕК-ЛИСТ</a> ",
+          "button": "<a data-app-btn=\"true\" class=\"mbr-buttons__btn btn btn-lg btn-danger\" href=\"https://zhukovanastya.github.io/form.html\" data-toolbar=\"-mbrBtnMove\">ПОЛУЧИТЬ БЕСПЛАТНЫЙ ЧЕК-ЛИСТ</a> ",
           "_name": "msg-box4",
           "_anchor": "msg-box4-u"
         },
@@ -249,7 +249,7 @@
             }
           },
           "title": "DRAG AND DROP WEBSITE BUILDER",
-          "text": "<p><br></p><p><i><b>169 руб.</b></i></p>",
+          "text": "<p><br></p><p><b>169 руб.</b></p>",
           "_tags": [
             "Тема"
           ],
@@ -270,7 +270,7 @@
           },
           "headerAlign": "left",
           "meta": "By John Smith posted July 30, 2015",
-          "button": "<a data-app-btn=\"true\" class=\"mbr-buttons__btn btn btn-lg btn-info\" href=\"https://zhukovanastya.github.io/form1.html\" data-toolbar=\"-mbrBtnMove\">ПРИОБРЕСТИ</a>",
+          "button": "<a data-app-btn=\"true\" class=\"mbr-buttons__btn btn btn-lg btn-danger\" href=\"https://zhukovanastya.github.io/form1.html\" data-toolbar=\"-mbrBtnMove\">ПРИОБРЕСТИ</a>",
           "_name": "msg-box4",
           "_anchor": "msg-box4-y"
         },
@@ -323,7 +323,7 @@
           },
           "title1": "Программа питания",
           "caption1": "Bootstrap 3 has been noted as one of the most reliable and proven frameworks and Mobirise has been equipped to develop websites using this framework.",
-          "button1": "<a data-app-btn=\"true\" href=\"https://zhukovanastya.github.io/form2\" class=\"mbr-buttons__btn btn btn-wrap btn-xs-lg btn-default\" data-toolbar=\"-mbrBtnMove\">КУПИТЬ ЗА 699 руб.</a>",
+          "button1": "<a data-app-btn=\"true\" href=\"https://zhukovanastya.github.io/form2\" class=\"mbr-buttons__btn btn btn-wrap btn-xs-lg btn-danger\" data-toolbar=\"-mbrBtnMove\">КУПИТЬ ЗА 699 руб.</a>",
           "media2": {
             "image": {
               "active": true,
@@ -346,7 +346,7 @@
           },
           "title2": "<br>Программа питания и тренировок",
           "caption2": "One of Bootstrap 3's big points is responsiveness and Mobirise makes effective use of this by generating highly responsive website for you.<br><br>",
-          "button2": "<a data-app-btn=\"true\" href=\"https://zhukovanastya.github.io/form3\" class=\"mbr-buttons__btn btn btn-wrap btn-xs-lg btn-default\" data-toolbar=\"-mbrBtnMove\">КУПИТЬ ЗА 999 руб.</a>",
+          "button2": "<a data-app-btn=\"true\" href=\"https://zhukovanastya.github.io/form3\" class=\"mbr-buttons__btn btn btn-wrap btn-xs-lg btn-danger\" data-toolbar=\"-mbrBtnMove\">КУПИТЬ ЗА 999 руб.</a>",
           "media3": {
             "image": {
               "active": true,
