@@ -36,11 +36,11 @@
             "logo": true,
             "showBrand": false,
             "showButtons": false,
-            "sticky": true,
+            "sticky": false,
             "collapsed": false,
             "transparent": false,
             "color": "#ffffff",
-            "hamburgerColor": "#0c0c0c"
+            "hamburgerColor": "#ffffff"
           },
           "buttons": "<li class=\"mbr-navbar__item\"><a data-app-btn=\"parent\" class=\"mbr-buttons__btn btn btn-danger\" data-app-selector=\".mbr-navbar__items a\" href=\"https://mobirise.com\" data-toolbar=\"-mbrBtnMove\">&nbsp;</a></li>",
           "_tags": [
@@ -57,7 +57,7 @@
               "background": "#ffffff"
             },
             ".mbr-navbar__hamburger": {
-              "color": "#0c0c0c"
+              "color": "#ffffff"
             }
           },
           "items": "<li class=\"mbr-navbar__item\"><a data-app-btn=\"true\" class=\"mbr-buttons__link btn mbr-menu-item text-black\" data-app-selector=\".mbr-navbar__items a\" href=\"https://zhukovanastya.github.io/\">ГЛАВНАЯ</a></li>  ",
@@ -73,8 +73,8 @@
             "iconFont": {
               "class": "mbr-iconfont mbr-iconfont-menu",
               "linkInNewWindow": false,
-              "name": "more-horizontal",
-              "family": "MobiriseIcons",
+              "name": "quote-left",
+              "family": "mobirise-icons-bold",
               "link": "https://zhukovanastya.github.io/",
               "size": "",
               "color": "#0c0c0c",
@@ -501,11 +501,11 @@
             "logo": true,
             "showBrand": false,
             "showButtons": false,
-            "sticky": true,
+            "sticky": false,
             "collapsed": false,
             "transparent": false,
             "color": "#ffffff",
-            "hamburgerColor": "#0c0c0c"
+            "hamburgerColor": "#ffffff"
           },
           "buttons": "<li class=\"mbr-navbar__item\"><a data-app-btn=\"parent\" class=\"mbr-buttons__btn btn btn-danger\" data-app-selector=\".mbr-navbar__items a\" href=\"https://mobirise.com\" data-toolbar=\"-mbrBtnMove\">&nbsp;</a></li>",
           "_tags": [
@@ -540,8 +540,8 @@
               "link": "https://zhukovanastya.github.io/",
               "size": "",
               "linkInNewWindow": false,
-              "name": "more-horizontal",
-              "family": "MobiriseIcons",
+              "name": "quote-left",
+              "family": "mobirise-icons-bold",
               "color": "#0c0c0c",
               "newWindow": false,
               "active": true
@@ -635,11 +635,11 @@
             "logo": true,
             "showBrand": false,
             "showButtons": false,
-            "sticky": true,
+            "sticky": false,
             "collapsed": false,
             "transparent": false,
             "color": "#ffffff",
-            "hamburgerColor": "#0c0c0c"
+            "hamburgerColor": "#ffffff"
           },
           "buttons": "<li class=\"mbr-navbar__item\"><a data-app-btn=\"parent\" class=\"mbr-buttons__btn btn btn-danger\" data-app-selector=\".mbr-navbar__items a\" href=\"https://mobirise.com\" data-toolbar=\"-mbrBtnMove\">&nbsp;</a></li>",
           "_tags": [
@@ -674,8 +674,8 @@
               "link": "https://zhukovanastya.github.io/",
               "size": "",
               "linkInNewWindow": false,
-              "name": "more-horizontal",
-              "family": "MobiriseIcons",
+              "name": "quote-left",
+              "family": "mobirise-icons-bold",
               "color": "#0c0c0c",
               "newWindow": false,
               "active": true
