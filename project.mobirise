@@ -39,8 +39,8 @@
             "sticky": true,
             "collapsed": false,
             "transparent": false,
-            "color": "#c1c1c1",
-            "hamburgerColor": "#ffffff"
+            "color": "#ffffff",
+            "hamburgerColor": "#0c0c0c"
           },
           "buttons": "<li class=\"mbr-navbar__item\"><a data-app-btn=\"parent\" class=\"mbr-buttons__btn btn btn-danger\" data-app-selector=\".mbr-navbar__items a\" href=\"https://mobirise.com\" data-toolbar=\"-mbrBtnMove\">&nbsp;</a></li>",
           "_tags": [
@@ -51,13 +51,13 @@
               "font-size": "16px"
             },
             "&.mbr-navbar--stuck .mbr-navbar__section": {
-              "background": "#c1c1c1"
+              "background": "#ffffff"
             },
             ".mbr-navbar__section": {
-              "background": "#c1c1c1"
+              "background": "#ffffff"
             },
             ".mbr-navbar__hamburger": {
-              "color": "#ffffff"
+              "color": "#0c0c0c"
             }
           },
           "items": "<li class=\"mbr-navbar__item\"><a data-app-btn=\"true\" class=\"mbr-buttons__link btn mbr-menu-item text-black\" data-app-selector=\".mbr-navbar__items a\" href=\"https://zhukovanastya.github.io/\">ГЛАВНАЯ</a></li>  ",
@@ -187,7 +187,7 @@
           },
           "headerAlign": "left",
           "meta": "By John Smith posted July 30, 2015",
-          "button": "<a data-app-btn=\"true\" class=\"mbr-buttons__btn btn btn-lg btn-info\" href=\"https://zhukovanastya.github.io/form.html\" data-toolbar=\"-mbrBtnMove\">ПОЛУЧИТЬ БЕСПЛАТНЫЙ ЧЕК-ЛИСТ</a>",
+          "button": "<a data-app-btn=\"true\" class=\"mbr-buttons__btn btn btn-lg btn-info\" href=\"https://zhukovanastya.github.io/form.html\" data-toolbar=\"-mbrBtnMove\">ПОЛУЧИТЬ БЕСПЛАТНЫЙ ЧЕК-ЛИСТ</a> ",
           "_name": "msg-box4",
           "_anchor": "msg-box4-u"
         },
@@ -235,7 +235,7 @@
             }
           },
           "title": "DRAG AND DROP WEBSITE BUILDER",
-          "text": "<p><br></p><p>169 руб.</p>",
+          "text": "<p><br></p><p><i><b>169 руб.</b></i></p>",
           "_tags": [
             "Тема"
           ],
@@ -250,12 +250,13 @@
               "color": "#ffffff"
             },
             ".mbr-article P": {
-              "font-size": "32px"
+              "font-size": "32px",
+              "color": "#7c706b"
             }
           },
           "headerAlign": "left",
           "meta": "By John Smith posted July 30, 2015",
-          "button": "<a data-app-btn=\"true\" class=\"mbr-buttons__btn btn btn-lg btn-default\" href=\"https://zhukovanastya.github.io/form1.html\" data-toolbar=\"-mbrBtnMove\">ПРИОБРЕСТИ</a>",
+          "button": "<a data-app-btn=\"true\" class=\"mbr-buttons__btn btn btn-lg btn-info\" href=\"https://zhukovanastya.github.io/form1.html\" data-toolbar=\"-mbrBtnMove\">ПРИОБРЕСТИ</a>",
           "_name": "msg-box4",
           "_anchor": "msg-box4-y"
         },
@@ -503,8 +504,8 @@
             "sticky": true,
             "collapsed": false,
             "transparent": false,
-            "color": "#c1c1c1",
-            "hamburgerColor": "#ffffff"
+            "color": "#ffffff",
+            "hamburgerColor": "#0c0c0c"
           },
           "buttons": "<li class=\"mbr-navbar__item\"><a data-app-btn=\"parent\" class=\"mbr-buttons__btn btn btn-danger\" data-app-selector=\".mbr-navbar__items a\" href=\"https://mobirise.com\" data-toolbar=\"-mbrBtnMove\">&nbsp;</a></li>",
           "_tags": [
@@ -637,8 +638,8 @@
             "sticky": true,
             "collapsed": false,
             "transparent": false,
-            "color": "#c1c1c1",
-            "hamburgerColor": "#ffffff"
+            "color": "#ffffff",
+            "hamburgerColor": "#0c0c0c"
           },
           "buttons": "<li class=\"mbr-navbar__item\"><a data-app-btn=\"parent\" class=\"mbr-buttons__btn btn btn-danger\" data-app-selector=\".mbr-navbar__items a\" href=\"https://mobirise.com\" data-toolbar=\"-mbrBtnMove\">&nbsp;</a></li>",
           "_tags": [

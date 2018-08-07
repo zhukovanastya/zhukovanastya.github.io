@@ -2,13 +2,13 @@
   font-size: 16px;
 }
 #ext_menu-0.mbr-navbar--stuck .mbr-navbar__section {
-  background: #c1c1c1;
+  background: #ffffff;
 }
 #ext_menu-0 .mbr-navbar__section {
-  background: #c1c1c1;
+  background: #ffffff;
 }
 #ext_menu-0 .mbr-navbar__hamburger {
-  color: #ffffff;
+  color: #0c0c0c;
 }
 #header4-1 H1 {
   text-align: center;
@@ -37,6 +37,7 @@
 }
 #msg-box4-y .mbr-article P {
   font-size: 32px;
+  color: #7c706b;
 }
 #ext_menu-p .mbr-brand__name {
   font-size: 16px;
