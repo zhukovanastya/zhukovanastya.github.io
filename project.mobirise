@@ -257,7 +257,7 @@
             }
           },
           "title": "DRAG AND DROP WEBSITE BUILDER",
-          "text": "<p><b>169 руб.</b><br></p>",
+          "text": "<p><b>рпарапрвпр</b><br></p>",
           "_tags": [
             "Тема"
           ],
@@ -455,13 +455,13 @@
             "bgColor": "#ffffff",
             "slides": [
               {
-                "image": "@PROJECT_PATH@/assets/images/1-2000x1102.png",
+                "image": "@PROJECT_PATH@/assets/images/img-15-1242x2208.png",
                 "active": true,
                 "showButtons": false,
                 "showText": false,
                 "showTitle": false,
                 "title": "Slide 1",
-                "contentAlign": "right",
+                "contentAlign": "center",
                 "text": "Develop fully responsive, mobile-optimized websites that look amazing on any devices and browsers. Preview how your website will appear on phones, tablets and desktops directly in the visual editor.",
                 "buttons": "<a data-app-btn=\"true\" class=\"mbr-buttons__btn btn btn-lg btn-danger\" href=\"https://mobirise.com\">FOR WINDOWS</a> <a data-app-btn=\"true\" class=\"mbr-buttons__btn btn btn-lg btn-default\" href=\"https://mobirise.com\">FOR MAC</a>"
               },
@@ -487,6 +487,17 @@
                 "title": "Slide 3",
                 "contentAlign": "center",
                 "text": "Choose from the large selection of latest pre-made blocks - jumbotrons, hero images, parallax scrolling, video backgrounds, hamburger menu, sticky header and more.",
+                "buttons": "<a data-app-btn=\"true\" class=\"mbr-buttons__btn btn btn-lg btn-danger\" href=\"https://mobirise.com\">FOR WINDOWS</a> <a data-app-btn=\"true\" class=\"mbr-buttons__btn btn btn-lg btn-default\" href=\"https://mobirise.com\">FOR MAC</a>"
+              },
+              {
+                "image": "@PROJECT_PATH@/assets/images/1-2000x1102.png",
+                "active": false,
+                "showButtons": false,
+                "showText": false,
+                "showTitle": false,
+                "title": "Slide 1",
+                "contentAlign": "center",
+                "text": "Develop fully responsive, mobile-optimized websites that look amazing on any devices and browsers. Preview how your website will appear on phones, tablets and desktops directly in the visual editor.",
                 "buttons": "<a data-app-btn=\"true\" class=\"mbr-buttons__btn btn btn-lg btn-danger\" href=\"https://mobirise.com\">FOR WINDOWS</a> <a data-app-btn=\"true\" class=\"mbr-buttons__btn btn btn-lg btn-default\" href=\"https://mobirise.com\">FOR MAC</a>"
               }
             ]
