@@ -63,7 +63,7 @@
               "font-size": "20px"
             }
           },
-          "items": "<li class=\"mbr-navbar__item\"><a data-app-btn=\"true\" class=\"mbr-buttons__link btn mbr-menu-item text-black\" data-app-selector=\".mbr-navbar__items a\" href=\"https://zhukovanastya.github.io/\">ГЛАВНАЯ</a></li>  ",
+          "items": "<li class=\"mbr-navbar__item\"><a data-app-btn=\"true\" class=\"mbr-buttons__link btn mbr-menu-item text-black\" data-app-selector=\".mbr-navbar__items a\" href=\"https://zhukovanastya.github.io/\">ОТЗЫВЫ</a></li> <li class=\"mbr-navbar__item\"><a data-app-btn=\"true\" class=\"mbr-buttons__link btn mbr-menu-item text-black\" data-app-selector=\".mbr-navbar__items a\" href=\"https://zhukovanastya.github.io/\">ГЛАВНАЯ</a></li>  ",
           "logo": {
             "image": {
               "src": "@PROJECT_PATH@/assets/images/logo.png",
@@ -554,7 +554,7 @@
               "font-size": "20px"
             }
           },
-          "items": "<li class=\"mbr-navbar__item\"><a data-app-btn=\"true\" class=\"mbr-buttons__link btn mbr-menu-item text-black\" data-app-selector=\".mbr-navbar__items a\" href=\"https://zhukovanastya.github.io/\">ГЛАВНАЯ</a></li>  ",
+          "items": "<li class=\"mbr-navbar__item\"><a data-app-btn=\"true\" class=\"mbr-buttons__link btn mbr-menu-item text-black\" data-app-selector=\".mbr-navbar__items a\" href=\"https://zhukovanastya.github.io/\">ОТЗЫВЫ</a></li> <li class=\"mbr-navbar__item\"><a data-app-btn=\"true\" class=\"mbr-buttons__link btn mbr-menu-item text-black\" data-app-selector=\".mbr-navbar__items a\" href=\"https://zhukovanastya.github.io/\">ГЛАВНАЯ</a></li>  ",
           "logo": {
             "image": {
               "src": "@PROJECT_PATH@/assets/images/logo.png",
@@ -696,7 +696,7 @@
               "font-size": "20px"
             }
           },
-          "items": "<li class=\"mbr-navbar__item\"><a data-app-btn=\"true\" class=\"mbr-buttons__link btn mbr-menu-item text-black\" data-app-selector=\".mbr-navbar__items a\" href=\"https://zhukovanastya.github.io/\">ГЛАВНАЯ</a></li>  ",
+          "items": "<li class=\"mbr-navbar__item\"><a data-app-btn=\"true\" class=\"mbr-buttons__link btn mbr-menu-item text-black\" data-app-selector=\".mbr-navbar__items a\" href=\"https://zhukovanastya.github.io/\">ОТЗЫВЫ</a></li> <li class=\"mbr-navbar__item\"><a data-app-btn=\"true\" class=\"mbr-buttons__link btn mbr-menu-item text-black\" data-app-selector=\".mbr-navbar__items a\" href=\"https://zhukovanastya.github.io/\">ГЛАВНАЯ</a></li>  ",
           "logo": {
             "image": {
               "src": "@PROJECT_PATH@/assets/images/logo.png",
@@ -838,7 +838,7 @@
               "font-size": "20px"
             }
           },
-          "items": "<li class=\"mbr-navbar__item\"><a data-app-btn=\"true\" class=\"mbr-buttons__link btn mbr-menu-item text-black\" data-app-selector=\".mbr-navbar__items a\" href=\"https://zhukovanastya.github.io/\">ГЛАВНАЯ</a></li>  ",
+          "items": "<li class=\"mbr-navbar__item\"><a data-app-btn=\"true\" class=\"mbr-buttons__link btn mbr-menu-item text-black\" data-app-selector=\".mbr-navbar__items a\" href=\"https://zhukovanastya.github.io/\">ОТЗЫВЫ</a></li> <li class=\"mbr-navbar__item\"><a data-app-btn=\"true\" class=\"mbr-buttons__link btn mbr-menu-item text-black\" data-app-selector=\".mbr-navbar__items a\" href=\"https://zhukovanastya.github.io/\">ГЛАВНАЯ</a></li>  ",
           "logo": {
             "image": {
               "src": "@PROJECT_PATH@/assets/images/logo.png",
@@ -980,7 +980,7 @@
               "font-size": "20px"
             }
           },
-          "items": "<li class=\"mbr-navbar__item\"><a data-app-btn=\"true\" class=\"mbr-buttons__link btn mbr-menu-item text-black\" data-app-selector=\".mbr-navbar__items a\" href=\"https://zhukovanastya.github.io/\">ГЛАВНАЯ</a></li>  ",
+          "items": "<li class=\"mbr-navbar__item\"><a data-app-btn=\"true\" class=\"mbr-buttons__link btn mbr-menu-item text-black\" data-app-selector=\".mbr-navbar__items a\" href=\"https://zhukovanastya.github.io/\">ОТЗЫВЫ</a></li> <li class=\"mbr-navbar__item\"><a data-app-btn=\"true\" class=\"mbr-buttons__link btn mbr-menu-item text-black\" data-app-selector=\".mbr-navbar__items a\" href=\"https://zhukovanastya.github.io/\">ГЛАВНАЯ</a></li>  ",
           "logo": {
             "image": {
               "src": "@PROJECT_PATH@/assets/images/logo.png",
