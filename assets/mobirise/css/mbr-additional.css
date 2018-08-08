@@ -38,9 +38,13 @@
 }
 #msg-box4-u .mbr-article {
   color: #444444;
+  font-size: 20px;
 }
 #msg-box4-u .mbr-article P {
   color: #444444;
+}
+#msg-box4-u .mbr-article DIV {
+  font-size: 20px;
 }
 #msg-box4-y .mbr-header__text {
   color: #ffffff;

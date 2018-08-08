@@ -97,21 +97,21 @@
             "showButtons": false,
             "showArrow": true,
             "contentAlign": "center",
-            "bgImageRadio": false,
-            "bgImage": "@PROJECT_PATH@/assets/images/mbr-1-1920x1280.jpg",
+            "bgImageRadio": true,
+            "bgImage": "@PROJECT_PATH@/assets/images/11-2000x1289.png",
             "parallax": true,
-            "bgColorRadio": true,
+            "bgColorRadio": false,
             "bgColor": "#cccccc",
             "bgVideoRadio": false,
             "bgVideo": {
               "url": "http://www.youtube.com/watch?v=uNCr7NdOJgw"
             },
-            "overlay": false,
+            "overlay": true,
             "overlayColor": "#222",
-            "overlayOpacity": 0.5
+            "overlayOpacity": "0.3"
           },
           "title": "ТВОЙ ТЕЛОГЕНЕРАТОР",
-          "text": "Онлайн-проект Жуковой Анастасии",
+          "text": "Онлайн-проект Жуковой Анастасии<br><br>Осознанное решение измениться обязательно привет к желаемой цели. Давай начнем совершенствоваться прямо сейчас!<br><br>",
           "buttons": "<a data-app-btn=\"true\" class=\"mbr-buttons__btn btn btn-lg btn-danger animated fadeInUp delay\" href=\"https://mobirise.com\" data-toolbar=\"-mbrBtnMove\">FOR WINDOWS</a> ",
           "_tags": [
             "Theme"
@@ -179,13 +179,13 @@
               "name": "edit",
               "family": "MobiriseIcons",
               "link": "",
-              "size": 0,
+              "size": "300",
               "color": "#7c706b",
               "active": true
             }
           },
-          "title": "ТОП-5 КНИГ, КОТОРЫЕ Я СОВЕТУЮ",
-          "text": "Ты узнаешь, как работает&nbsp;",
+          "title": "ТОП-5 КНИГ, КОТОРЫЕ ИЗМЕНЯТ ТВОИ ОТНОШЕНИЯ С ЕДОЙ",
+          "text": "&nbsp;Ты узнаешь о потребностях и сигналах нашего организма\n<div>&nbsp;Научишься &nbsp;слушать свое тело\n</div><div>&nbsp;Осознаешь важность полезных привычек\n</div><div>&nbsp;Больше не попадешься на маркетинговые уловки \n</div><div><br></div>",
           "_tags": [
             "Тема"
           ],
@@ -197,10 +197,14 @@
               "color": "#ffffff"
             },
             ".mbr-article": {
-              "color": "#444444"
+              "color": "#444444",
+              "font-size": "20px"
             },
             ".mbr-article P": {
               "color": "#444444"
+            },
+            ".mbr-article DIV": {
+              "font-size": "20px"
             }
           },
           "headerAlign": "left",
