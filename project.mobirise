@@ -810,7 +810,7 @@
             ".mbr-header__text": {
               "font-size": "25px",
               "color": "#0c0c0c",
-              "text-align": "center"
+              "text-align": "left"
             }
           }
         },
