@@ -111,7 +111,7 @@
             "overlayOpacity": "0.5"
           },
           "title": "ТВОЙ ТЕЛОГЕНЕРАТОР",
-          "text": "Онлайн-проект Жуковой Анастасии<br><br>Осознанное решение измениться обязательно привет к желаемой цели. Давай начнем совершенствоваться прямо сейчас!<br><br>",
+          "text": "Онлайн-проект Жуковой Анастасии<br><br>Осознанное решение измениться обязательно привет к желаемой цели.<br>Начни совершенствоваться прямо сейчас!<br><br>",
           "buttons": "<a data-app-btn=\"true\" class=\"mbr-buttons__btn btn btn-lg btn-danger animated fadeInUp delay\" href=\"index.html#msg-box4-u\" data-toolbar=\"-mbrBtnMove\">СДЕЛАЙ ПЕРВЫЙ ШАГ!</a> ",
           "_tags": [
             "Theme"
