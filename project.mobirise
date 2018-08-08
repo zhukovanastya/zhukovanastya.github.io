@@ -94,11 +94,11 @@
           "_params": {
             "showTitle": true,
             "showText": true,
-            "showButtons": false,
+            "showButtons": true,
             "showArrow": true,
             "contentAlign": "center",
             "bgImageRadio": true,
-            "bgImage": "@PROJECT_PATH@/assets/images/11-2000x1289.png",
+            "bgImage": "@PROJECT_PATH@/assets/images/12-2000x1289.png",
             "parallax": true,
             "bgColorRadio": false,
             "bgColor": "#cccccc",
@@ -107,12 +107,12 @@
               "url": "http://www.youtube.com/watch?v=uNCr7NdOJgw"
             },
             "overlay": true,
-            "overlayColor": "#222",
-            "overlayOpacity": "0.3"
+            "overlayColor": "#cccccc",
+            "overlayOpacity": "0.5"
           },
           "title": "ТВОЙ ТЕЛОГЕНЕРАТОР",
           "text": "Онлайн-проект Жуковой Анастасии<br><br>Осознанное решение измениться обязательно привет к желаемой цели. Давай начнем совершенствоваться прямо сейчас!<br><br>",
-          "buttons": "<a data-app-btn=\"true\" class=\"mbr-buttons__btn btn btn-lg btn-danger animated fadeInUp delay\" href=\"https://mobirise.com\" data-toolbar=\"-mbrBtnMove\">FOR WINDOWS</a> ",
+          "buttons": "<a data-app-btn=\"true\" class=\"mbr-buttons__btn btn btn-lg btn-danger animated fadeInUp delay\" href=\"index.html#msg-box4-u\" data-toolbar=\"-mbrBtnMove\">СДЕЛАЙ ПЕРВЫЙ ШАГ!</a> ",
           "_tags": [
             "Theme"
           ],
@@ -122,11 +122,11 @@
           "_styles": {
             "H1": {
               "text-align": "center",
-              "color": "#000000",
+              "color": "#444444",
               "font-size": "32px"
             },
             "P": {
-              "color": "#0c0c0c",
+              "color": "#444444",
               "font-family": "'Roboto Condensed', sans-serif",
               "googleLink": "https://fonts.googleapis.com/css?family=Roboto+Condensed:400,300,700",
               "text-align": "center"
@@ -255,13 +255,13 @@
               "name": "growing-chart",
               "family": "mobirise-icons-bold",
               "link": "",
-              "size": 0,
+              "size": "300",
               "color": "#7c706b",
               "active": true
             }
           },
-          "title": "DRAG AND DROP WEBSITE BUILDER",
-          "text": "<p><b>рпарапрвпр</b><br></p>",
+          "title": "ОГНЕННАЯ ПОДБОРКА ДЛЯ ТЕХ, КТО ГОТОВ МЕНЯТЬСЯ&nbsp;",
+          "text": "<p>Чек-лист \"ТОП-10 ПРАВИЛ ПОХУДЕНИЯ\"</p><p>Трекер привычек, с которыми ты стенешь лучше</p><p>Воркбук \"Осознанный путь к ЗОЖу\"</p><p>P.S. Ты влюбишься в оформление!</p>",
           "_tags": [
             "Тема"
           ],
@@ -276,7 +276,7 @@
               "color": "#ffffff"
             },
             ".mbr-article P": {
-              "font-size": "17px",
+              "font-size": "20px",
               "color": "#ffffff"
             },
             ".mbr-header__subtext SPAN": {
@@ -319,7 +319,7 @@
           "media1": {
             "image": {
               "active": true,
-              "src": "@PROJECT_PATH@/assets/images/mbr-600x436.jpg",
+              "src": "@PROJECT_PATH@/assets/images/33-302x374.jpg",
               "class": "mbr-figure__img",
               "width": 600,
               "link": "",
@@ -336,13 +336,13 @@
               "size": 0
             }
           },
-          "title1": "Программа питания",
-          "caption1": "Bootstrap 3 has been noted as one of the most reliable and proven frameworks and Mobirise has been equipped to develop websites using this framework.",
-          "button1": "<a data-app-btn=\"true\" href=\"https://zhukovanastya.github.io/form2\" class=\"mbr-buttons__btn btn btn-wrap btn-xs-lg btn-danger\" data-toolbar=\"-mbrBtnMove\">КУПИТЬ ЗА 699 руб.</a>",
+          "title1": "ПРОГРАММА ПИТАНИЯ",
+          "caption1": "Индивидуальный план питания на 30 дней, рассчитанный под тебя<br>Сборник полезных рецептов с КБЖУ&nbsp;<br>Лист взаимозаменяемых продуктов<br>Консультации по всем интересующим вопросам<br>Мотивация и поддержка 24/7 в подарок<br><br><br>",
+          "button1": "<a data-app-btn=\"true\" href=\"https://zhukovanastya.github.io/form2\" class=\"mbr-buttons__btn btn btn-wrap btn-xs-lg btn-danger\" data-toolbar=\"-mbrBtnMove\">КУПИТЬ ЗА 490 руб.</a>",
           "media2": {
             "image": {
               "active": true,
-              "src": "@PROJECT_PATH@/assets/images/mbr-2-600x400.jpg",
+              "src": "@PROJECT_PATH@/assets/images/22-299x374.jpg",
               "class": "mbr-figure__img",
               "width": 600,
               "link": "",
@@ -359,9 +359,9 @@
               "size": 0
             }
           },
-          "title2": "<br>Программа питания и тренировок",
-          "caption2": "One of Bootstrap 3's big points is responsiveness and Mobirise makes effective use of this by generating highly responsive website for you.<br><br>",
-          "button2": "<a data-app-btn=\"true\" href=\"https://zhukovanastya.github.io/form3\" class=\"mbr-buttons__btn btn btn-wrap btn-xs-lg btn-danger\" data-toolbar=\"-mbrBtnMove\">КУПИТЬ ЗА 999 руб.</a>",
+          "title2": "ПРОГРАММА ПИТАНИЯ И ТРЕНИРОВОК",
+          "caption2": "Индивидуальный план питания и программа тренировок на 30 дней<br>Подробное объяснение техники упражнений<br>Расширенный сборник полезных рецептов с КБЖУ<br>Список рекомендованных продуктов<br>Документ с полезной теорией для новичков&nbsp;<br>Консультации по всем интересующим вопросам\n<br>Мотивация и поддержка 24/7 в подарок<br>",
+          "button2": "<a data-app-btn=\"true\" href=\"https://zhukovanastya.github.io/form3\" class=\"mbr-buttons__btn btn btn-wrap btn-xs-lg btn-danger\" data-toolbar=\"-mbrBtnMove\">КУПИТЬ ЗА 790 руб.</a>",
           "media3": {
             "image": {
               "active": true,
@@ -446,7 +446,12 @@
             "Тема"
           ],
           "_name": "features1",
-          "_anchor": "features1-n"
+          "_anchor": "features1-n",
+          "_styles": {
+            "P": {
+              "text-align": "center"
+            }
+          }
         },
         {
           "_afterNavbarItem": ".mbr-section > .mbr-box__magnet",
@@ -831,7 +836,7 @@
             "overlayOpacity": 0.5
           },
           "title": "Приобрести подборку!",
-          "buttons": "<a data-app-btn=\"true\" type=\"submit\" class=\"mbr-buttons__btn btn btn-lg btn-danger\" data-toolbar=\"-mbrLink,-mbrBtnAdd,-mbrBtnMove\">Получить</a>",
+          "buttons": "<a data-app-btn=\"true\" type=\"submit\" class=\"mbr-buttons__btn btn btn-lg btn-danger\" data-toolbar=\"-mbrLink,-mbrBtnAdd,-mbrBtnMove\">Купить за 169 руб.</a>",
           "form": {
             "action": "zukovvanastya@mail.ru",
             "alerts": {
@@ -973,7 +978,7 @@
             "overlayOpacity": 0.5
           },
           "title": "Купить программу питания",
-          "buttons": "<a data-app-btn=\"true\" type=\"submit\" class=\"mbr-buttons__btn btn btn-lg btn-danger\" data-toolbar=\"-mbrLink,-mbrBtnAdd,-mbrBtnMove\">Купить за 699 руб.</a>",
+          "buttons": "<a data-app-btn=\"true\" type=\"submit\" class=\"mbr-buttons__btn btn btn-lg btn-danger\" data-toolbar=\"-mbrLink,-mbrBtnAdd,-mbrBtnMove\">Купить за 490 руб.</a>",
           "form": {
             "action": "zukovvanastya@mail.ru",
             "alerts": {
@@ -1115,7 +1120,7 @@
             "overlayOpacity": 0.5
           },
           "title": "Купить программу питания и тренировок",
-          "buttons": "<a data-app-btn=\"true\" type=\"submit\" class=\"mbr-buttons__btn btn btn-lg btn-danger\" data-toolbar=\"-mbrLink,-mbrBtnAdd,-mbrBtnMove\">Купить за 999 руб.</a>",
+          "buttons": "<a data-app-btn=\"true\" type=\"submit\" class=\"mbr-buttons__btn btn btn-lg btn-danger\" data-toolbar=\"-mbrLink,-mbrBtnAdd,-mbrBtnMove\">Купить за 790 руб.</a>",
           "form": {
             "action": "zukovvanastya@mail.ru",
             "alerts": {
