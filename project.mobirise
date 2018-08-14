@@ -1,7 +1,7 @@
 {
   "settings": {
     "name": "1",
-    "currentPage": "index.html",
+    "currentPage": "form2.html",
     "theme": {
       "name": "default",
       "title": "Mobirise",
@@ -261,7 +261,7 @@
             }
           },
           "title": "ОГНЕННАЯ ПОДБОРКА ДЛЯ ТЕХ, КТО ГОТОВ МЕНЯТЬСЯ&nbsp;",
-          "text": "<p>Чек-лист \"ТОП-10 ПРАВИЛ ПОХУДЕНИЯ\"</p><p>Трекер привычек, с которыми ты станешь лучше</p><p>Воркбук \"Осознанный путь к ЗОЖу\"</p><p>P.S. Ты влюбишься в оформление!</p>",
+          "text": "<p>Чек-лист \"ТОП-10 ПРАВИЛ ПОХУДЕНИЯ\"</p><p>Трекер привычек, с которыми ты станешь лучше</p><p>Воркбук \"Скульптор тела\"</p><p>P.S. Ты влюбишься в оформление!</p>",
           "_tags": [
             "Тема"
           ],
@@ -338,7 +338,7 @@
           },
           "title1": "ПРОГРАММА ПИТАНИЯ",
           "caption1": "Индивидуальный план питания на 30 дней, рассчитанный под тебя<br>Сборник полезных рецептов с КБЖУ&nbsp;<br>Лист взаимозаменяемых продуктов<br>Консультации по всем интересующим вопросам<br>Мотивация и поддержка 24/7 в подарок<br><br><br>",
-          "button1": "<a data-app-btn=\"true\" href=\"https://zhukovanastya.github.io/form2\" class=\"mbr-buttons__btn btn btn-wrap btn-xs-lg btn-danger\" data-toolbar=\"-mbrBtnMove\">КУПИТЬ ЗА 490 руб.</a>",
+          "button1": "<a data-app-btn=\"true\" href=\"https://zhukovanastya.github.io/form2\" class=\"mbr-buttons__btn btn btn-wrap btn-xs-lg btn-danger\" data-toolbar=\"-mbrBtnMove\">КУПИТЬ ЗА 590 руб.</a>",
           "media2": {
             "image": {
               "active": true,
@@ -1231,7 +1231,7 @@
             "overlayOpacity": 0.5
           },
           "title": "Купить программу питания",
-          "buttons": "<a data-app-btn=\"true\" type=\"submit\" class=\"mbr-buttons__btn btn btn-lg btn-danger\" data-toolbar=\"-mbrLink,-mbrBtnAdd,-mbrBtnMove\">Купить за 490 руб.</a>",
+          "buttons": "<a data-app-btn=\"true\" type=\"submit\" class=\"mbr-buttons__btn btn btn-lg btn-danger\" data-toolbar=\"-mbrLink,-mbrBtnAdd,-mbrBtnMove\">Купить за 590 руб.</a>",
           "form": {
             "action": "zukovvanastya@mail.ru",
             "alerts": {
