@@ -1,0 +1,93 @@
+<!DOCTYPE html>
+<html lang="ru">
+<head>
+   <meta charset="UTF-8">
+   <meta name="viewport" content="width=device-width, initial-scale=1.0">
+   <meta http-equiv="X-UA-Compatible" content="ie=edge">
+   <title>Телогенератор</title>
+   <link rel="shortcut icon" href="img/mainicon.png">
+   <link rel="stylesheet" href="css/bootstrap-grid.min.css">
+   <link rel="stylesheet" href="css/bootstrap.css">
+   <link rel="stylesheet" href="css/style.css">
+   <link rel="stylesheet" href="css/animate.css">
+   <link href="https://fonts.googleapis.com/css?family=Poiret+One&amp;subset=cyrillic" rel="stylesheet">
+</head>
+
+<body>
+  <div class="conatainer sticky-top" id="top-menu">
+      <nav class="navbar navbar-expand-lg navbar-dark bg-dark sticky-top">
+        <a class="navbar-brand wow rubberBand" data-wow-delay="0.1s" href="index.html"><img src="img/mainicon.png" alt="logo" width="60" height="60"></a>
+        <!-- <button class="navbar-toggler" type="button" data-toggle="collapse" data-target="#navbarNav" aria-controls="navbarNav" aria-expanded="false" aria-label="Toggle navigation">
+          <span class="navbar-toggler-icon"></span>
+        </button> -->
+        <div class="collapse navbar-collapse justify-content-end" id="navbarNav">
+          <ul class="navbar-nav">
+            <li class="nav-item">
+              <!-- <a class="nav-link" href="index.html">Главная</a> -->
+            </li>
+          </ul>
+        </div>
+      </nav>
+  </div>
+
+  <section class="intensiv">
+    <div class="intensiv">
+      <p><b>Привет!</b><br><br>
+        Это пятидневный интенсив от Жуковой Анастасии,<br> который откроет тебе глаза на мир фитнеса и сбалансированного питания<br><br>
+        <b>Тебя ждут:</b><br><br>
+        Видео-лекции, где я объясню все доступным языком<br>
+        Рабочие тетради с ежедневными заданиями<br>
+        Полезная теория<br>
+        Чат для общения, где я смогу ответить на твои вопросы<br>
+        Самая приятная часть – призы!<br><br>
+        <b>Всего за 5 дней ты сможешь:</b><br><br>
+        найти ошибки в своём питании и тренировках<br>
+        освоить сбалансированное питание<br>
+        научиться есть сладкое и худеть<br>
+        создать свой идеальный план питания<br>
+        узнать самые эффективные упражнения для каждой группы мышц<br>
+        построить качественную программу тренировок<br><br>
+        <b>А что самое главное? - стоимость всего 149 рублей!<br>
+        Успей записаться, количество мест ограничено!<br><br>
+        Начало 12 ноября!
+      </b></p>
+      <div class="marathon-button">
+        <!-- <a href="#">Принять участие за 149 руб.</a> -->
+        <form method="POST" action="https://money.yandex.ru/quickpay/confirm.xml">
+          <input type="hidden" name="receiver" value="410017936494992">
+          <input type="hidden" name="formcomment" value="Покупка участия в интенсиве.">
+          <input type="hidden" name="short-dest" value="Интенсив за 149 руб.">
+          <input type="hidden" name="quickpay-form" value="donate">
+          <input type="hidden" name="targets" value="Интенсив за 149 руб.">
+          <input type="hidden" name="sum" value="149.00" data-type="number">
+          <input type="hidden" name="comment" value="Покупка участия в интенсиве.">
+          <input type="hidden" name="need-fio" value="false">
+          <input type="hidden" name="need-email" value="false"> 
+          <input type="hidden" name="need-phone" value="true">
+          <input type="hidden" name="need-address" value="false">
+          <input type="hidden" name="paymentType" value="PC">
+          <input type="hidden" name="paymentType" value="AC">
+          <input type="submit" value="Принять участие за 149 руб.">
+          <input type="hidden" name="successURL" value="https://zhukovanastya.github.io/intensiv_completed.html">
+      </form>
+      </div>
+    </div>    
+  </section>
+
+  
+
+  <footer>
+    <div class="social-block">
+      <p>Подписывайся!</p>
+      <a class="wow rotateIn" data-wow-delay="0.2s" href="https://www.instagram.com/zhukova.nasstya"><img src="img/inst.png" alt="inst"></a>
+    </div>
+  </footer>
+
+  <script src="https://code.jquery.com/jquery-3.3.1.min.js"></script>
+  <script src="https://cdnjs.cloudflare.com/ajax/libs/popper.js/1.14.3/umd/popper.min.js" integrity="sha384-ZMP7rVo3mIykV+2+9J3UJ46jBk0WLaUAdn689aCwoqbBJiSnjAK/l8WvCWPIPm49" crossorigin="anonymous"></script>
+  <script src="https://stackpath.bootstrapcdn.com/bootstrap/4.1.3/js/bootstrap.min.js" integrity="sha384-ChfqqxuZUCnJSK3+MXmPNIyE6ZbWh2IMqE241rYiqJxyMiZ6OW/JmZQ5stwEULTy" crossorigin="anonymous"></script>
+  <script src="js/wow.min.js"></script>
+  <script src="js/script.js"></script>
+
+</body>
+</html>
